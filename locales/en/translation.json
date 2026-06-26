@@ -79,6 +79,26 @@
       "description": "Online radio platform with a full admin panel, live presenter scheduling, news, Top 5 chart, and a real-time AI-moderated chat.",
       "fullDescription": "Web platform for the Max FM online radio station (Spain), built with React and TypeScript with a PHP and SQLite backend. The site features dynamic hero banners, a programming section with a \"live now\" card plus previous/next slots, presenter profiles, a Top 5 song chart, a news carousel, and a persistent streaming audio player. All content (banners, shows, presenters, news, Top 5) is managed through a dedicated admin panel with token-based authentication. The station's live chat also includes an automated moderator built in Python, responsible for filtering messages and keeping the conversation within community guidelines in real time."
     },
+    "project7": {
+      "title": "Economizo - France",
+      "description": "Collaboration as a developer within the Economizo team, a French online tech store built on Shopify, with a Liquid theme and a complementary PHP backend.",
+      "fullDescription": "Economizo is an online store targeting the French market, specialized in selling tech products: smartphones, computers, TVs, audio, gaming, wearables, and electronic accessories, with a catalog of over 300 brands, running on a membership model (\"Membre Privilège\") that converts unused payments into purchase credits. It's a large-scale project maintained by a development team, within which I collaborate as a developer providing support on the Shopify platform: customizing templates and components in Liquid, and integrating additional logic through a PHP backend for complementary processes. My involvement is focused on specific development and maintenance tasks within that team, not on the authorship or ownership of the project."
+    },
+    "project9": {
+      "title": "ClubEcono - France",
+      "description": "Collaboration as a developer within the same Economizo team, on ClubEcono, a French online home goods store built on Shopify, with a Liquid theme and a complementary PHP backend.",
+      "fullDescription": "ClubEcono is an online store targeting the French market, specialized in home goods: furniture, decor, kitchenware, appliances, textiles, and cleaning and storage products, with a catalog of over 300 brands, running on the same membership model (\"Prix Spéciaux\") that converts unused payments into purchase credits. It belongs to the same group and development team as Economizo, reusing the same Shopify architecture but with a different product catalog and focus (home goods instead of tech). I collaborate as a developer providing support on the platform: customizing templates and components in Liquid, and integrating additional logic through a PHP backend for complementary processes. My involvement is focused on specific development and maintenance tasks within that team, not on the authorship or ownership of the project."
+    },
+    "project10": {
+      "title": "AbonAvantage - France",
+      "description": "Collaboration as a developer within the same Economizo team, on AbonAvantage, a French online beauty and personal care store built on Shopify, with a Liquid theme and a complementary PHP backend.",
+      "fullDescription": "AbonAvantage is an online store targeting the French market, specialized in beauty and personal care: makeup, perfumes, jewelry, accessories, and wellness products, with a catalog of over 300 premium brands, running on the same membership model (\"Privilège\") that converts unused payments into purchase credits. It belongs to the same group and development team as Economizo, reusing the same Shopify architecture but with a different product catalog and focus (beauty instead of tech). I collaborate as a developer providing support on the platform: customizing templates and components in Liquid, and integrating additional logic through a PHP backend for complementary processes. My involvement is focused on specific development and maintenance tasks within that team, not on the authorship or ownership of the project."
+    },
+    "project11": {
+      "title": "OffreMaline - France",
+      "description": "Collaboration as a developer within the same Economizo team, on OffreMaline, a French online DIY and gardening store built on Shopify, with a Liquid theme and a complementary PHP backend.",
+      "fullDescription": "OffreMaline is an online store targeting the French market, specialized in DIY, gardening, electrical, plumbing, heating, and home security products, with a catalog of over 300 brands, running on the same membership model (\"Prix Spéciaux\") that converts unused payments into purchase credits. It belongs to the same group and development team as Economizo, reusing the same Shopify architecture but with a different product catalog and focus (DIY instead of tech). I collaborate as a developer providing support on the platform: customizing templates and components in Liquid, and integrating additional logic through a PHP backend for complementary processes. My involvement is focused on specific development and maintenance tasks within that team, not on the authorship or ownership of the project."
+    },
     "project8": {
       "title": "AI Automation + CRM - Induscom - Colombia",
       "description": "n8n automation flow with an AI agent (ChatGPT) that handles customer conversations, collects key data (such as engine numbers), and automatically classifies it in the Kommo CRM.",
@@ -115,7 +135,7 @@
       },
       "pagosOnline": {
         "title": "Online Payments (Coming soon):",
-        "content": "Currently, online payments are temporarily disabled while I finalize my immigration process in Spain, which is necessary to legally issue invoices. I will soon enable secure credit card payment options for your convenience!"
+        "content": "Online payments are currently not available. I'm working on enabling secure credit card payment options soon for your convenience. In the meantime, feel free to contact me directly to arrange other payment methods."
       }
     }
   },
@@ -396,7 +416,7 @@
     },
     "disabledModal": {
       "title": "Important Notice",
-      "message": "At the moment I do not accept payments of any kind, I am waiting for immigration to approve my migration process to be able to issue you a valid invoice. Thank you for your interest.",
+      "message": "Online payment is currently not available. I'm working on enabling this option soon. Thank you for your interest — feel free to contact me directly to arrange other payment methods.",
       "close": "Close"
     }
   },

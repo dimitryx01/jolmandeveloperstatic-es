@@ -79,6 +79,26 @@
       "description": "Radio online con panel de administración completo, programación en vivo de locutores, noticias, Top 5 y chat moderado por IA en tiempo real.",
       "fullDescription": "Plataforma web para la emisora de radio online Max FM (España), desarrollada en React y TypeScript con un backend en PHP y SQLite. El sitio incluye banners dinámicos en el hero, sección de programación con tarjeta de \"en vivo\" y franjas anterior/siguiente, perfiles de locutores, ranking Top 5 de canciones, carrusel de noticias y reproductor de audio en streaming fijo en pantalla. Todo el contenido (banners, programas, locutores, noticias, top 5) se gestiona desde un panel de administración propio con autenticación por token. Además, el chat en vivo de la emisora cuenta con un moderador automático desarrollado en Python, encargado de filtrar mensajes y mantener la conversación dentro de las normas de la comunidad en tiempo real."
     },
+    "project7": {
+      "title": "Economizo - Francia",
+      "description": "Colaboración como desarrollador dentro del equipo de Economizo, tienda online francesa de tecnología construida sobre Shopify, con tematización en Liquid y backend complementario en PHP.",
+      "fullDescription": "Economizo es una tienda online dirigida al mercado francés especializada en la venta de productos de tecnología: smartphones, ordenadores, televisores, audio, gaming, wearables y accesorios electrónicos, con un catálogo de más de 300 marcas, bajo un modelo de membresía (\"Membre Privilège\") que convierte los pagos no utilizados en créditos de compra. Es un proyecto de gran escala mantenido por un equipo de desarrollo, dentro del cual colaboro como desarrollador dando soporte sobre la plataforma Shopify: personalización de plantillas y componentes en Liquid, e integración de lógica adicional mediante un backend en PHP para procesos complementarios. Mi participación se centra en tareas de desarrollo y mantenimiento puntuales dentro de ese equipo, no en la autoría ni propiedad del proyecto."
+    },
+    "project9": {
+      "title": "ClubEcono - Francia",
+      "description": "Colaboración como desarrollador dentro del mismo equipo de Economizo, en ClubEcono, tienda online francesa de productos para el hogar construida sobre Shopify, con tematización en Liquid y backend complementario en PHP.",
+      "fullDescription": "ClubEcono es una tienda online dirigida al mercado francés especializada en productos para el hogar: muebles, decoración, menaje de cocina, electrodomésticos, textiles y artículos de limpieza y almacenamiento, con un catálogo de más de 300 marcas, bajo el mismo modelo de membresía (\"Prix Spéciaux\") que convierte los pagos no utilizados en créditos de compra. Pertenece al mismo grupo y equipo de desarrollo que Economizo, reutilizando la misma arquitectura sobre Shopify pero con un catálogo y enfoque de producto distintos (hogar en lugar de tecnología). Colaboro como desarrollador dando soporte sobre la plataforma: personalización de plantillas y componentes en Liquid, e integración de lógica adicional mediante un backend en PHP para procesos complementarios. Mi participación se centra en tareas de desarrollo y mantenimiento puntuales dentro de ese equipo, no en la autoría ni propiedad del proyecto."
+    },
+    "project10": {
+      "title": "AbonAvantage - Francia",
+      "description": "Colaboración como desarrollador dentro del mismo equipo de Economizo, en AbonAvantage, tienda online francesa de belleza y cuidado personal construida sobre Shopify, con tematización en Liquid y backend complementario en PHP.",
+      "fullDescription": "AbonAvantage es una tienda online dirigida al mercado francés especializada en belleza y cuidado personal: maquillaje, perfumes, joyas, accesorios y productos de bienestar, con un catálogo de más de 300 marcas premium, bajo el mismo modelo de membresía (\"Privilège\") que convierte los pagos no utilizados en créditos de compra. Pertenece al mismo grupo y equipo de desarrollo que Economizo, reutilizando la misma arquitectura sobre Shopify pero con un catálogo y enfoque de producto distintos (belleza en lugar de tecnología). Colaboro como desarrollador dando soporte sobre la plataforma: personalización de plantillas y componentes en Liquid, e integración de lógica adicional mediante un backend en PHP para procesos complementarios. Mi participación se centra en tareas de desarrollo y mantenimiento puntuales dentro de ese equipo, no en la autoría ni propiedad del proyecto."
+    },
+    "project11": {
+      "title": "OffreMaline - Francia",
+      "description": "Colaboración como desarrollador dentro del mismo equipo de Economizo, en OffreMaline, tienda online francesa de bricolaje y jardinería construida sobre Shopify, con tematización en Liquid y backend complementario en PHP.",
+      "fullDescription": "OffreMaline es una tienda online dirigida al mercado francés especializada en bricolaje, jardinería, electricidad, fontanería, calefacción y seguridad del hogar, con un catálogo de más de 300 marcas, bajo el mismo modelo de membresía (\"Prix Spéciaux\") que convierte los pagos no utilizados en créditos de compra. Pertenece al mismo grupo y equipo de desarrollo que Economizo, reutilizando la misma arquitectura sobre Shopify pero con un catálogo y enfoque de producto distintos (bricolaje en lugar de tecnología). Colaboro como desarrollador dando soporte sobre la plataforma: personalización de plantillas y componentes en Liquid, e integración de lógica adicional mediante un backend en PHP para procesos complementarios. Mi participación se centra en tareas de desarrollo y mantenimiento puntuales dentro de ese equipo, no en la autoría ni propiedad del proyecto."
+    },
     "project8": {
       "title": "Automatización IA + CRM - Induscom - Colombia",
       "description": "Flujo de automatización en n8n con un agente de IA (ChatGPT) que atiende a los clientes, recopila datos clave (como el número de motor) y los clasifica automáticamente en el CRM Kommo.",
@@ -115,7 +135,7 @@
       },
       "pagosOnline": {
         "title": "Pagos Online (Próximamente):",
-        "content": "Actualmente, la recepción de pagos online está deshabilitada temporalmente mientras finalizo mi proceso migratorio en España, lo cual es necesario para poder facturar legalmente. ¡Pronto habilitaré opciones de pago seguro en tarjeta para mayor comodidad!"
+        "content": "Actualmente, la recepción de pagos online no está disponible. Estoy trabajando para habilitar próximamente opciones de pago seguro en tarjeta para mayor comodidad. Mientras tanto, puedes contactarme directamente para acordar otras modalidades de pago."
       }
     }
   },
@@ -396,7 +416,7 @@
     },
     "disabledModal": {
       "title": "Aviso Importante",
-      "message": "Por el momento no acepto pagos de ningún tipo, estoy a la espera de que extranjería apruebe mi proceso migratorio para poder emitirte una factura válida. Gracias por tu interés.",
+      "message": "Por el momento, el pago en línea no está disponible. Estoy trabajando para habilitar esta opción próximamente. Gracias por tu interés — puedes contactarme directamente para acordar otras modalidades de pago.",
       "close": "Cerrar"
     }
   },
