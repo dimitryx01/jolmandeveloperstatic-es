@@ -1,16 +1,8 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
+# Sitio de España: https://jolmandeveloper.es
+# Todos los rastreadores pueden acceder (buscadores y sistemas de respuesta con IA incluidos).
+# Las páginas que no deben indexarse llevan <meta name="robots" content="noindex">: no se
+# bloquean aquí porque el rastreador debe poder leer esa etiqueta.
 User-agent: *
 Allow: /
 
-Sitemap: https://jolmandeveloper.com/sitemap.xml
+Sitemap: https://jolmandeveloper.es/sitemap.xml

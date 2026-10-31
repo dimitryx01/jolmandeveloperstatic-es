@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>https://jolmandeveloper.com/es</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://jolmandeveloper.com/en"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://jolmandeveloper.com/es"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://jolmandeveloper.com/es"/>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://jolmandeveloper.com/en</loc>
-        <xhtml:link rel="alternate" hreflang="en" href="https://jolmandeveloper.com/en"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://jolmandeveloper.com/es"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://jolmandeveloper.com/es"/>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jolmandeveloper.es/es/</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://jolmandeveloper.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jolmandeveloper.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jolmandeveloper.es/es/"/>
+  </url>
+  <url>
+    <loc>https://jolmandeveloper.es/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://jolmandeveloper.es/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://jolmandeveloper.es/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jolmandeveloper.es/es/"/>
+  </url>
 </urlset>
