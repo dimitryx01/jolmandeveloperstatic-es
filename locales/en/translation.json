@@ -9,8 +9,8 @@
   },
   "hero": {
     "hello": "Hello, I'm",
-    "role": "Web Designer & Developer",
-    "description": "I create attractive and functional digital experiences with a minimalist and user-centered approach.",
+    "role": "Freelance web designer & developer",
+    "description": "From Barcelona and remotely, I build custom and WordPress websites, online stores, apps and automations with Kommo CRM and n8n for individuals and small businesses. Tell me about your project and I'll prepare a free, no-obligation quote.",
     "contactMe": "Contact me",
     "downloadCV": "Download CV",
     "learnMore": "Learn more",
@@ -194,7 +194,7 @@
             {
               "name": "Speed & Core Web Vitals optimization",
               "price": "From 250 EUR",
-              "description": "Improvement of Google performance indicators: LCP, FID, CLS. Image optimization, caching, minification and server configuration."
+              "description": "Improvement of Google performance indicators: LCP, INP, CLS. Image optimization, caching, minification and server configuration."
             },
             {
               "name": "Code audit & refactoring",
@@ -205,13 +205,8 @@
         },
         {
           "emoji": "📈",
-          "title": "SEO & analytics",
+          "title": "Analytics & tracking",
           "items": [
-            {
-              "name": "Technical SEO",
-              "price": "From 400 EUR",
-              "description": "Technical optimization for search engines: URL structure, metadata, schema markup, sitemap, robots.txt, speed and mobile compatibility."
-            },
             {
               "name": "Google Analytics & Tag Manager setup",
               "price": "From 150 EUR",
@@ -353,6 +348,10 @@
             "content": "Except for the private VPS service, hosting is the client's responsibility."
           },
           {
+            "title": "VAT:",
+            "content": "All listed prices do not include VAT."
+          },
+          {
             "title": "Custom quote:",
             "content": "Listed prices are indicative. Each project is quoted individually based on its actual scope."
           },
@@ -461,7 +460,7 @@
       "• Phone: +34 603 21 92 11",
       "• Email: info@jolmandeveloper.es",
       "• NIF/VAT Number: Will be provided at the time of hiring",
-      "This Legal Notice regulates the access, navigation, and use of the website https://www.jolmandeveloper.es.",
+      "This Legal Notice regulates the access, navigation, and use of the website https://jolmandeveloper.es.",
       "Terms of Use",
       "Access and use of this website confers the status of user, implying full acceptance of the conditions contained herein.",
       "The user undertakes to use the website in accordance with current legislation, good faith, public order, and this Legal Notice.",
@@ -491,7 +490,7 @@
     ],
     "privacidadTitle": "Privacy Policy",
     "privacidadContent": [
-      "In compliance with the provisions of Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27, 2016 (GDPR), and Organic Law 3/2018, on the Protection of Personal Data and guarantee of digital rights (LOPDGDD), users of the website www.jolmandeveloper.es are informed about the processing of their personal data.",
+      "In compliance with the provisions of Regulation (EU) 2016/679 of the European Parliament and of the Council, of April 27, 2016 (GDPR), and Organic Law 3/2018, on the Protection of Personal Data and guarantee of digital rights (LOPDGDD), users of the website jolmandeveloper.es are informed about the processing of their personal data.",
       "1. Data Controller",
       "• Owner: Jolman Yobany Gordillo Guerrero",
       "• Address: Carrer del Doctor Pi i Molist, 65 Loc 3, Nou Barris, 08031 Barcelona, Spain",
@@ -548,7 +547,7 @@
     ],
     "cookiesTitle": "Cookie Policy",
     "cookiesContent": [
-      "At www.jolmandeveloper.es we use cookies and similar technologies to improve your browsing experience and analyze traffic on our website.",
+      "At jolmandeveloper.es we use cookies and similar technologies to improve your browsing experience and analyze traffic on our website.",
       "1. What are cookies?",
       "Cookies are small text files that websites store on your browser or device. They are used to make the website work correctly, remember your preferences (such as language), and obtain statistical information about how you use the page.",
       "2. What cookies do we use?",
@@ -573,8 +572,8 @@
     ]
   },
   "meta": {
-    "title": "Jolman Developer | Professional Freelance Web Development in Bogotá, Barcelona and Melbourne",
-    "description": "I'm Jolman Developer, expert in creating web solutions that boost your business. Professional and customized web development. Contact me today!"
+    "title": "Freelance web developer in Barcelona | Jolman Developer",
+    "description": "Custom and WordPress websites, online stores, apps and automations with Kommo CRM and n8n. Freelance in Barcelona. Free, no-obligation quote."
   },
   "cookies": {
     "message": "We use anonymous analytics and security cookies (reCAPTCHA) to ensure the proper functioning of the website and improve your experience.",

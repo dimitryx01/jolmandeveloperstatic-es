@@ -9,8 +9,8 @@
   },
   "hero": {
     "hello": "Hola, soy",
-    "role": "Diseñador & Desarrollador Web",
-    "description": "Creo experiencias digitales atractivas y funcionales con un enfoque minimalista y centrado en el usuario.",
+    "role": "Diseñador y desarrollador web freelance",
+    "description": "Desde Barcelona y en remoto, creo webs a medida y en WordPress, tiendas online, apps y automatizaciones con Kommo CRM y n8n para particulares y pymes. Cuéntame tu proyecto y te preparo un presupuesto gratuito y sin compromiso.",
     "contactMe": "Contáctame",
     "downloadCV": "Descargar CV",
     "learnMore": "Saber más",
@@ -194,7 +194,7 @@
             {
               "name": "Optimización de velocidad y Core Web Vitals",
               "price": "Desde 250 EUR",
-              "description": "Mejora de los indicadores de rendimiento de Google: LCP, FID, CLS. Optimización de imágenes, caché, minificación y configuración de servidor."
+              "description": "Mejora de los indicadores de rendimiento de Google: LCP, INP, CLS. Optimización de imágenes, caché, minificación y configuración de servidor."
             },
             {
               "name": "Auditoría y refactorización de código",
@@ -205,13 +205,8 @@
         },
         {
           "emoji": "📈",
-          "title": "SEO y analítica",
+          "title": "Analítica y seguimiento",
           "items": [
-            {
-              "name": "SEO técnico",
-              "price": "Desde 400 EUR",
-              "description": "Optimización técnica del sitio para buscadores: estructura de URLs, metadatos, schema markup, sitemap, robots.txt, velocidad y compatibilidad móvil."
-            },
             {
               "name": "Configuración de Google Analytics y Tag Manager",
               "price": "Desde 150 EUR",
@@ -353,6 +348,10 @@
             "content": "Salvo en el servicio de VPS propio, el alojamiento es responsabilidad del cliente."
           },
           {
+            "title": "IVA:",
+            "content": "Todos los precios indicados no incluyen IVA."
+          },
+          {
             "title": "Presupuesto personalizado:",
             "content": "Los precios indicados son orientativos. Cada proyecto se presupuesta individualmente según su alcance real."
           },
@@ -461,7 +460,7 @@
       "• Teléfono: +34 603 21 92 11",
       "• Correo electrónico: info@jolmandeveloper.es",
       "• NIF: Se facilitará en el momento de la contratación",
-      "El presente Aviso Legal regula el acceso, navegación y uso del sitio web https://www.jolmandeveloper.es.",
+      "El presente Aviso Legal regula el acceso, navegación y uso del sitio web https://jolmandeveloper.es.",
       "Condiciones de uso",
       "El acceso y uso de este sitio web atribuye la condición de usuario, implicando la aceptación plena de las condiciones aquí recogidas.",
       "El usuario se compromete a utilizar el sitio web conforme a la legislación vigente, la buena fe, el orden público y el presente Aviso Legal.",
@@ -491,7 +490,7 @@
     ],
     "privacidadTitle": "Política de Privacidad",
     "privacidadContent": [
-      "En cumplimiento de lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (RGPD), y en la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), se informa a los usuarios del sitio web www.jolmandeveloper.es sobre el tratamiento de sus datos personales.",
+      "En cumplimiento de lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (RGPD), y en la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), se informa a los usuarios del sitio web jolmandeveloper.es sobre el tratamiento de sus datos personales.",
       "1. Responsable del tratamiento",
       "• Titular: Jolman Yobany Gordillo Guerrero",
       "• Dirección: Carrer del Doctor Pi i Molist, 65 Loc 3, Nou Barris, 08031 Barcelona, España",
@@ -548,7 +547,7 @@
     ],
     "cookiesTitle": "Política de Cookies",
     "cookiesContent": [
-      "En www.jolmandeveloper.es utilizamos cookies y tecnologías similares para mejorar tu experiencia de navegación y analizar el tráfico de nuestro sitio web.",
+      "En jolmandeveloper.es utilizamos cookies y tecnologías similares para mejorar tu experiencia de navegación y analizar el tráfico de nuestro sitio web.",
       "1. ¿Qué son las cookies?",
       "Las cookies son pequeños archivos de texto que los sitios web almacenan en tu navegador o dispositivo. Se utilizan para que la web funcione correctamente, recordar tus preferencias (como el idioma) y obtener información estadística sobre cómo usas la página.",
       "2. ¿Qué cookies utilizamos?",
@@ -573,8 +572,8 @@
     ]
   },
   "meta": {
-    "title": "Jolman Developer | Desarrollo Web Freelance Profesional en Bogotá, Barcelona y Melbourne",
-    "description": "Soy Jolman Developer, experto en crear soluciones web que impulsan tu negocio. Desarrollo web profesional y personalizado. ¡Contáctame hoy!"
+    "title": "Desarrollador web freelance en Barcelona | Jolman Developer",
+    "description": "Webs a medida y en WordPress, tiendas online, apps y automatizaciones con Kommo CRM y n8n. Freelance en Barcelona. Presupuesto gratuito y sin compromiso."
   },
   "cookies": {
     "message": "Utilizamos cookies de analítica anónima y seguridad (reCAPTCHA) para garantizar el correcto funcionamiento de la web y mejorar tu experiencia.",
