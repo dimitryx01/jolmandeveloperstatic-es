@@ -5,7 +5,9 @@
     "projects": "Proyectos",
     "contact": "Contacto",
     "changeTheme": "Cambiar tema",
-    "menu": "Menú"
+    "menu": "Menú",
+    "services": "Servicios",
+    "blog": "Blog"
   },
   "hero": {
     "hello": "Hola, soy",
@@ -67,7 +69,7 @@
     "project4": {
       "title": "Fundación Kalida - España",
       "description": "Desarrollo y mantenimiento de landings y módulo de Agenda para la web de Fundació Kālida, incluyendo implementación de nuevas funcionalidades, optimización de componentes y resolución de incidencias en producción.",
-      "fullDescription": "Colaboré en el desarrollo y mantenimiento de la web de Fundació Kālida, en mi funcion de BECARIO trabajando sobre un entorno en producción orientado a alto tráfico y contenido dinámico. Mis tareas incluyeron la creación y refactorización de landing pages (campañas, contenidos informativos y secciones online), asegurando un marcado semántico correcto, buen rendimiento y consistencia con el diseño global del sitio. También participé en la evolución del módulo de Agenda, implementando ajustes funcionales y de interfaz a partir de tickets de soporte: corrección de bugs, pequeños cambios de comportamiento, mejoras en la presentación de actividades y alineación con los requisitos del equipo de comunicación. Todo ello siguiendo buenas prácticas de mantenibilidad, revisión continua de cambios y enfoque en la experiencia de usuario."
+      "fullDescription": "Colaboré en el desarrollo y mantenimiento de la web de Fundació Kālida, trabajando sobre un entorno en producción orientado a alto tráfico y contenido dinámico. Mis tareas incluyeron la creación y refactorización de landing pages (campañas, contenidos informativos y secciones online), asegurando un marcado semántico correcto, buen rendimiento y consistencia con el diseño global del sitio. También participé en la evolución del módulo de Agenda, implementando ajustes funcionales y de interfaz a partir de tickets de soporte: corrección de bugs, pequeños cambios de comportamiento, mejoras en la presentación de actividades y alineación con los requisitos del equipo de comunicación. Todo ello siguiendo buenas prácticas de mantenibilidad, revisión continua de cambios y enfoque en la experiencia de usuario."
     },
     "project5": {
       "title": "Feel Hospitality Advisor - España",
@@ -103,7 +105,34 @@
       "title": "Automatización IA + CRM - Induscom - Colombia",
       "description": "Flujo de automatización en n8n con un agente de IA (ChatGPT) que atiende a los clientes, recopila datos clave (como el número de motor) y los clasifica automáticamente en el CRM Kommo.",
       "fullDescription": "Proyecto de automatización desarrollado para Induscom Colombia con el objetivo de optimizar la atención al cliente y el registro de información comercial. Se diseñó un flujo en n8n que conecta los canales de mensajería de la empresa con un agente de inteligencia artificial basado en ChatGPT, capaz de responder automáticamente a los clientes, entender sus consultas y recolectar datos relevantes para el negocio (como el número de motor de la pieza solicitada, tipo de repuesto y otros datos técnicos necesarios para dar seguimiento). Toda esta información se clasifica y registra de forma automática en el CRM Kommo, organizando cada conversación y sus datos asociados en el embudo de ventas correspondiente. Esto permite al equipo comercial de Induscom tener un historial estructurado de cada cliente sin intervención manual, reduciendo tiempos de respuesta y mejorando la productividad del proceso de ventas."
-    }
+    },
+    "project12": {
+      "title": "Feel Accessibility - España",
+      "description": "Plugin gratuito de WordPress que añade una barra de accesibilidad: cada visitante ajusta el texto, el contraste, la lectura y el movimiento. Publicado en el directorio oficial de WordPress.org.",
+      "fullDescription": "Plugin gratuito de WordPress que desarrollé para Feel Hospitality Advisory, consultora especializada en accesibilidad turística. Añade un botón de accesibilidad en la esquina inferior derecha de la web (también se abre con Alt + Mayús + A) y un panel de preferencias con el que cada visitante adapta el sitio a su manera de leer y navegar: texto (ampliación hasta el 150 %, espaciado entre letras, palabras y líneas, tipografía legible o pensada para dislexia), color y contraste (alto contraste oscuro o claro, escala de grises), lectura y contenido (resaltar enlaces y títulos, guía de lectura, ocultar imágenes, lectura en voz alta) y movimiento y navegación (pausar animaciones y vídeos, cursor grande y foco de teclado muy visible). Está disponible en español, inglés, catalán, gallego y euskera, sigue el idioma de la página y es compatible con Polylang. Las preferencias se guardan solo en el dispositivo del visitante. Como indica su propia ficha, no hace accesible un sitio por sí solo ni garantiza el cumplimiento de las WCAG: es un complemento de una web bien construida, no un sustituto. Se ha probado con axe-core y navegadores automatizados, todavía no con lectores de pantalla en dispositivos reales. Está publicado en el directorio oficial de WordPress.org."
+    },
+    "viewMore": "Ver más proyectos",
+    "accessibilityTag": "Accesibilidad",
+    "categories": {
+      "custom": {
+        "title": "Plataformas y desarrollo a medida",
+        "description": "Plataformas, paneles de administración y plugins desarrollados a medida."
+      },
+      "automation": {
+        "title": "Automatización e IA",
+        "description": "Flujos con n8n, agentes de IA y el CRM Kommo."
+      },
+      "corporate": {
+        "title": "Webs corporativas y landings",
+        "description": "Sitios web de empresas y entidades, principalmente en WordPress."
+      },
+      "stores": {
+        "title": "Tiendas online",
+        "description": "Tiendas online sobre Shopify en las que colaboro como desarrollador dentro de un equipo."
+      }
+    },
+    "automationTag": "Automatización",
+    "aiTag": "IA / ChatGPT"
   },
   "contratacion": {
     "title": "Contratación",
@@ -361,7 +390,8 @@
           }
         ]
       }
-    }
+    },
+    "viewAll": "Ver todas las tarifas"
   },
   "partnersSection": {
     "title": "Automatización e Integraciones",
@@ -387,7 +417,7 @@
     },
     "n8n": {
       "title": "Flujos con n8n",
-      "description": "Diseño e implemento automatizaciones visuales con n8n: conecto tu CRM, tienda, formularios, APIs y cualquier herramienta sin dependencias de plataformas cerradas. Código abierto, potente y en tu infraestructura.",
+      "description": "Diseño e implemento automatizaciones visuales con n8n: conecto tu CRM, tienda, formularios, APIs y cualquier herramienta sin dependencias de plataformas cerradas. Potente, flexible y alojable en tu propia infraestructura.",
       "cta": "Consultar automatizaciones"
     }
   },
@@ -432,7 +462,7 @@
       "success": "Mensaje enviado",
       "thankYou": "Gracias por contactarme. Te responderé lo antes posible.",
       "acceptPolicies": "Acepto las políticas de tratamiento de datos.",
-      "seeMore": "Ver más",
+      "seeMore": "Leer la política de privacidad",
       "acceptPoliciesError": "Debes aceptar las políticas de tratamiento de datos para poder enviar el mensaje."
     },
     "info": {
@@ -583,5 +613,48 @@
     "rejectedNoticeDesc": "Solo mantendremos activas las de seguridad y analíticas mínimas anónimas necesarias para que la web funcione correctamente.",
     "acceptedNoticeTitle": "Cookies actualizadas",
     "acceptedNoticeDesc": "Has aceptado el uso de cookies estadísticas."
+  },
+  "servicesNav": {
+    "servicios": {
+      "name": "Servicios"
+    },
+    "tarifas": {
+      "name": "Tarifas"
+    },
+    "blog": {
+      "name": "Blog"
+    },
+    "svcWeb": {
+      "name": "Páginas web",
+      "blurb": "Landing pages, webs con WordPress y rediseño o migración de webs existentes."
+    },
+    "svcTiendas": {
+      "name": "Tiendas online",
+      "blurb": "Tiendas con WooCommerce, Shopify o desarrolladas a medida: productos, pagos y envíos."
+    },
+    "svcMedida": {
+      "name": "Desarrollo a medida",
+      "blurb": "Webs a medida, paneles de administración, APIs y apps para iOS y Android."
+    },
+    "svcKommo": {
+      "name": "Kommo CRM",
+      "blurb": "Implementación de Kommo, canales de mensajería, automatizaciones e integraciones."
+    },
+    "svcAutomatizacion": {
+      "name": "Automatización e IA",
+      "blurb": "Automatizaciones con n8n y chatbots con inteligencia artificial."
+    },
+    "svcMantenimiento": {
+      "name": "Mantenimiento y hosting",
+      "blurb": "Mantenimiento mensual, soporte por horas, hosting en VPS y migraciones."
+    }
+  },
+  "servicesHome": {
+    "title": "Servicios",
+    "description": "Qué puedo hacer por tu proyecto, con precios de referencia. Cada servicio tiene su propia página con el detalle y las preguntas frecuentes.",
+    "viewService": "Ver detalles",
+    "viewAllServices": "Ver todos los servicios",
+    "viewTarifas": "Ver todas las tarifas",
+    "priceNote": "Precios orientativos, sin IVA. Presupuesto gratuito y sin compromiso."
   }
 }

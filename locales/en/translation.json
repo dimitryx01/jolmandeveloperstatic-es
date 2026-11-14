@@ -5,7 +5,9 @@
     "projects": "Projects",
     "contact": "Contact",
     "changeTheme": "Toggle theme",
-    "menu": "Menu"
+    "menu": "Menu",
+    "services": "Services",
+    "blog": "Blog"
   },
   "hero": {
     "hello": "Hello, I'm",
@@ -67,7 +69,7 @@
     "project4": {
       "title": "Fundació Kālida – Spain",
       "description": "Development and maintenance of landing pages and the Agenda module for the Fundació Kālida website, including implementation of new features, component optimization, and production incident resolution.",
-      "fullDescription": "I collaborated on the development and maintenance of the Fundació Kālida website, in my role as INTERN working on a production environment oriented to high traffic and dynamic content. My tasks included creating and refactoring landing pages (campaigns, informational content, and online sections), ensuring correct semantic markup, solid performance, and consistency with the site’s global design. I also contributed to the evolution of the Agenda module, implementing functional and UI adjustments based on support tickets: bug fixing, minor behavior changes, improvements in the presentation of activities, and alignment with the communication team’s requirements. All of this following good maintainability practices, continuous review of changes, and a strong focus on user experience."
+      "fullDescription": "I collaborated on the development and maintenance of the Fundació Kālida website, working on a production environment oriented to high traffic and dynamic content. My tasks included creating and refactoring landing pages (campaigns, informational content, and online sections), ensuring correct semantic markup, solid performance, and consistency with the site’s global design. I also contributed to the evolution of the Agenda module, implementing functional and UI adjustments based on support tickets: bug fixing, minor behavior changes, improvements in the presentation of activities, and alignment with the communication team’s requirements. All of this following good maintainability practices, continuous review of changes, and a strong focus on user experience."
     },
     "project5": {
       "title": "Feel Hospitality Advisor – Spain",
@@ -103,7 +105,34 @@
       "title": "AI Automation + CRM - Induscom - Colombia",
       "description": "n8n automation flow with an AI agent (ChatGPT) that handles customer conversations, collects key data (such as engine numbers), and automatically classifies it in the Kommo CRM.",
       "fullDescription": "Automation project built for Induscom Colombia to streamline customer support and the logging of business information. An n8n flow was designed to connect the company's messaging channels with an AI agent based on ChatGPT, capable of automatically replying to customers, understanding their requests, and collecting business-relevant data (such as the engine number of the requested part, spare part type, and other technical details needed for follow-up). All of this information is automatically classified and logged in the Kommo CRM, organizing each conversation and its associated data within the corresponding sales pipeline. This allows Induscom's sales team to keep a structured history of every customer with no manual intervention, reducing response times and improving the productivity of the sales process."
-    }
+    },
+    "project12": {
+      "title": "Feel Accessibility - Spain",
+      "description": "Free WordPress plugin that adds an accessibility bar: each visitor adjusts text, contrast, reading and motion. Listed in the official WordPress.org directory.",
+      "fullDescription": "A free WordPress plugin that I developed for Feel Hospitality Advisory, a consultancy specialised in tourism accessibility. It adds an accessibility button in the bottom-right corner of the website (it also opens with Alt + Shift + A) and a preferences panel that lets each visitor adapt the site to the way they read and navigate: text (enlarge up to 150%, letter, word and line spacing, a readable or dyslexia-oriented typeface), colour and contrast (dark or light high contrast, grayscale), reading and content (highlight links and headings, reading guide, hide images, read aloud) and motion and navigation (pause animations and videos, large cursor, highly visible keyboard focus). It is available in Spanish, English, Catalan, Galician and Basque, follows the page’s language and works with Polylang. Preferences are stored only on the visitor’s device. As its own page states, it does not make a site accessible by itself or guarantee WCAG compliance: it is a complement to a well-built website, not a substitute. It has been tested with axe-core and automated browsers, not yet with screen readers on real devices. It is listed in the official WordPress.org directory."
+    },
+    "viewMore": "Show more projects",
+    "accessibilityTag": "Accessibility",
+    "categories": {
+      "custom": {
+        "title": "Platforms & custom development",
+        "description": "Platforms, admin panels and plugins built from scratch."
+      },
+      "automation": {
+        "title": "Automation & AI",
+        "description": "Workflows with n8n, AI agents and the Kommo CRM."
+      },
+      "corporate": {
+        "title": "Corporate websites & landing pages",
+        "description": "Websites for companies and organisations, mainly on WordPress."
+      },
+      "stores": {
+        "title": "Online stores",
+        "description": "Shopify online stores on which I collaborate as a developer within a team."
+      }
+    },
+    "automationTag": "Automation",
+    "aiTag": "AI / ChatGPT"
   },
   "contratacion": {
     "title": "Hiring",
@@ -361,7 +390,8 @@
           }
         ]
       }
-    }
+    },
+    "viewAll": "See all pricing"
   },
   "partnersSection": {
     "title": "Automation & Integrations",
@@ -387,7 +417,7 @@
     },
     "n8n": {
       "title": "Flows with n8n",
-      "description": "I design and implement visual automations with n8n: connecting your CRM, store, forms, APIs and any tool without vendor lock-in. Open-source, powerful and on your own infrastructure.",
+      "description": "I design and implement visual automations with n8n: connecting your CRM, store, forms, APIs and any tool without vendor lock-in. Powerful, flexible and self-hostable on your own infrastructure.",
       "cta": "Ask about automations"
     }
   },
@@ -432,7 +462,7 @@
       "success": "Message sent",
       "thankYou": "Thank you for contacting me. I will respond as soon as possible.",
       "acceptPolicies": "I accept the data processing policies.",
-      "seeMore": "See more",
+      "seeMore": "Read the privacy policy",
       "acceptPoliciesError": "You must accept the data processing policies to send the message."
     },
     "info": {
@@ -583,5 +613,48 @@
     "rejectedNoticeDesc": "We will only keep active the security and anonymous minimum analytics cookies necessary for the website to function correctly.",
     "acceptedNoticeTitle": "Cookies updated",
     "acceptedNoticeDesc": "You have accepted the use of analytical cookies."
+  },
+  "servicesNav": {
+    "servicios": {
+      "name": "Services"
+    },
+    "tarifas": {
+      "name": "Pricing"
+    },
+    "blog": {
+      "name": "Blog"
+    },
+    "svcWeb": {
+      "name": "Websites",
+      "blurb": "Landing pages, WordPress websites and redesign or migration of existing sites."
+    },
+    "svcTiendas": {
+      "name": "Online stores",
+      "blurb": "Stores built with WooCommerce, Shopify or developed from scratch: products, payments and shipping."
+    },
+    "svcMedida": {
+      "name": "Custom development",
+      "blurb": "Custom websites, admin panels, APIs and apps for iOS and Android."
+    },
+    "svcKommo": {
+      "name": "Kommo CRM",
+      "blurb": "Kommo implementation, messaging channels, automations and integrations."
+    },
+    "svcAutomatizacion": {
+      "name": "Automation & AI",
+      "blurb": "Automations with n8n and chatbots powered by artificial intelligence."
+    },
+    "svcMantenimiento": {
+      "name": "Maintenance & hosting",
+      "blurb": "Monthly maintenance, hourly support, VPS hosting and migrations."
+    }
+  },
+  "servicesHome": {
+    "title": "Services",
+    "description": "What I can do for your project, with reference prices. Each service has its own page with the details and frequently asked questions.",
+    "viewService": "See details",
+    "viewAllServices": "See all services",
+    "viewTarifas": "See all pricing",
+    "priceNote": "Reference prices, VAT not included. Free, no-obligation quote."
   }
 }
