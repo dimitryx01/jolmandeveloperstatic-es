@@ -76,6 +76,9 @@
     <loc>https://jolmandeveloper.es/es/blog/que-es-n8n/</loc>
   </url>
   <url>
+    <loc>https://jolmandeveloper.es/es/blog/staging-indexado-en-google/</loc>
+  </url>
+  <url>
     <loc>https://jolmandeveloper.es/en/</loc>
     <xhtml:link rel="alternate" hreflang="es-ES" href="https://jolmandeveloper.es/es/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://jolmandeveloper.es/en/"/>
